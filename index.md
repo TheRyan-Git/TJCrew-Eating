@@ -1,4 +1,4 @@
-title:summer eating
+title: summer eating
 
 ---
 hello: time to eat
