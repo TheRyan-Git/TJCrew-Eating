@@ -1,5 +1,5 @@
 title:summer eating
 
 ---
-hello:time to eat
+hello: time to eat
 ---
